@@ -6,7 +6,7 @@ This repository contains neuroimaging data of myself (Taylor Hanayik) since 2013
 | 27 | 1991-07-01 | 173 cm | 104 kg | M | M |
 
 # Data
-The raw NIFTI files are hosted at OSF.io [at this link](https://osf.io/kjdm3/).
+[The raw NIFTI files are hosted at OSF.io](https://osf.io/kjdm3/).
 - All date formats are YYYY-MM-DD
 - Unit for age is years
 - MRI protocols follow an easy to understand naming scheme (i.e. T1w = T1 weighted brain imaging protocol)
