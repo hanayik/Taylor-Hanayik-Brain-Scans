@@ -14,10 +14,10 @@ This repository contains neuroimaging data of myself (Taylor Hanayik) since 2013
 
 
 # Data Overview
-| Date | Age at scan | Files | Anatomy | Num. images |
-| --- | --- | --- | --- | --- |
-| 2013-10-11 | 22| T1w | brain | 1 |
-| 2015-09-10 | 24 | mixed | heart | 52 |
-| 2015-09-14 | 24 | ASL2D, ASL3D, DWI, rest-fMRI, T1w, T2w | brain | 24 |
-| 2017-09-04 | 26 | T1w | brain | 1|
-| 2018-06-29 | 26 | T1w | brain | 3 |
+| Date | Age at scan | Protocols | Anatomy | Num. images | Scanner | Location |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2013-10-11 | 22| T1w | brain | 1 | Siemens TRIO | Columbia, SC, USA |
+| 2015-09-10 | 24 | mixed | heart | 52 | Siemens PRISMA | Columbia, SC, USA |
+| 2015-09-14 | 24 | ASL2D, ASL3D, DWI, rest-fMRI, T1w, T2w | brain | 24 | Siemens PRISMA | Columbia, SC, USA |
+| 2017-09-04 | 26 | T1w | brain | 1| Siemens PRISMA | Columbia, SC, USA |
+| 2018-06-29 | 26 | T1w | brain | 3 | Siemens PRISMA | Columbia, SC, USA |
