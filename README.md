@@ -21,3 +21,4 @@ This repository contains neuroimaging data of myself (Taylor Hanayik) since 2013
 | 2015-09-14 | 24 | ASL, DWI, rfMRI, T1w, T2w | brain | 24 | Siemens PRISMA | Columbia, SC, USA |
 | 2017-09-04 | 26 | T1w | brain | 1| Siemens PRISMA | Columbia, SC, USA |
 | 2018-06-29 | 26 | T1w | brain | 3 | Siemens PRISMA | Columbia, SC, USA |
+| 2018-07-06 | 27 | T1w (ME-MPRAGE) | brain | 24 | Siemens PRISMA | Columbia, SC, USA |
